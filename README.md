@@ -86,7 +86,3 @@ Crie as tabelas no banco de dados rodando as migrations:
 ```sh
 php artisan migrate
 ```
-Rode os testes:
-```sh
-php artisan test
-```
